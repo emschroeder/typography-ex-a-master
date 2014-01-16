@@ -1,0 +1,14 @@
+/* Your Website Styles */
+
+h1 {
+font-family: 'Sacramento', cursive;
+}
+
+h2 {
+	font-family: 'Sacramento', cursive;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
