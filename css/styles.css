@@ -1,11 +1,11 @@
 /* Your Website Styles */
 
-h1 {
-font-family: 'Sacramento', cursive;
+h1, h3 {
+font-family: 'Petit Formal Script', cursive;
 }
 
-h2 {
-	font-family: 'Sacramento', cursive;
+p {
+	font-family: 'Playfair Display', serif;
 }
 
 /* Show Grid */
